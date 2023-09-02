@@ -1,0 +1,70 @@
+{
+  "Pizza": [
+    {
+      "Pizza": "Margherita",
+      "Cost": "\u00a315.23",
+      "Description": "Mozzarella cheese, tomato, oregano",
+      "Vegetarians": true
+    },
+    {
+      "Pizza": "Napoletana",
+      "Cost": "\u00a315.95",
+      "Description": "Cheese, tomato, anchovies, oregano, garlic",
+      "Vegetarians": true
+    },
+    {
+      "Pizza": "Diavola",
+      "Cost": "\u00a315.41",
+      "Description": "Cheese, tomato, pepperoni, chilli, salami, onions",
+      "Vegetarians": false
+    },
+    {
+      "Pizza": "Vegetariana",
+      "Cost": "\u00a315.77",
+      "Description": "Mushrooms, peppers, onion, spinach, asparagus",
+      "Vegetarians": false
+    },
+    {
+      "Pizza": "Prosciutto",
+      "Cost": "\u00a314.00",
+      "Description": "Mozzarella cheese, tomato and ham",
+      "Vegetarians": true
+    },
+    {
+      "Pizza": "Capri",
+      "Cost": "\u00a316.12",
+      "Description": "Cheese, tomato, olives, anchovies, garlic, capers",
+      "Vegetarians": false
+    },
+    {
+      "Pizza": "Funghi",
+      "Cost": "\u00a316.65",
+      "Description": "Mozzarella cheese, tomato and mushrooms",
+      "Vegetarians": true
+    },
+    {
+      "Pizza": "Quattro Stagioni",
+      "Cost": "\u00a314.85",
+      "Description": "Cheese, tomato, mushrooms, artichokes, ham",
+      "Vegetarians": true
+    },
+    {
+      "Pizza": "Sorrento",
+      "Cost": "\u00a315.95",
+      "Description": "Mozzarella cheese, tomato, ham and pineapple",
+      "Vegetarians": true
+    },
+    {
+      "Pizza": "Meridiana",
+      "Cost": "\u00a317.18",
+      "Description": "Cheese, tomato, ham, mushrooms and chicken",
+      "Vegetarians": false
+    },
+    {
+      "Pizza": "Spinach",
+      "Cost": "\u00a311.21",
+      "Description": "Spinach, cheese, tomato",
+      "Vegetarians": false
+    }
+  ]
+}

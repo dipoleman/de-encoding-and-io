@@ -1,0 +1,12 @@
+Pizza,Cost,Description,Vegetarians
+Margherita,£15.23,"Mozzarella cheese, tomato, oregano",True
+Napoletana,£15.95,"Cheese, tomato, anchovies, oregano, garlic",True
+Diavola,£15.41,"Cheese, tomato, pepperoni, chilli, salami, onions",False
+Vegetariana,£15.77,"Mushrooms, peppers, onion, spinach, asparagus",False
+Prosciutto,£14.00,"Mozzarella cheese, tomato and ham",True
+Capri,£16.12,"Cheese, tomato, olives, anchovies, garlic, capers",False
+Funghi,£16.65,"Mozzarella cheese, tomato and mushrooms",True
+Quattro Stagioni,£14.85,"Cheese, tomato, mushrooms, artichokes, ham",True
+Sorrento,£15.95,"Mozzarella cheese, tomato, ham and pineapple",True
+Meridiana,£17.18,"Cheese, tomato, ham, mushrooms and chicken",False
+Spinach,£11.21,"Spinach, cheese, tomato",False

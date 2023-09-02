@@ -1,0 +1,252 @@
+<properties>
+    <sale>
+        <detached>
+            <home1>
+                <cost>£700000</cost>
+                <description>Grade ll Listed character barn conversion offering a wealth of character features. This substantial property boasts a very generous main reception room with beautiful ceiling beams and wood burning stove. This picturesque property boasts two further reception rooms that enjoy views through full length windows into both front and rear gardens. To the first floor the property enjoys four double bedrooms with the master bedroom en-suite. Outside are both front and rear gardens with log store and garage, complete with parking.</description>
+                <bedrooms>4</bedrooms>
+                <bathrooms>2</bathrooms>
+                <plot_size>1940 sq.ft</plot_size>
+            </home1>
+            <home2>
+                <cost>£300000</cost>
+                <description>Detached family home situated close to local schools, amenities and briefly comprising of lounge, kitchen/diner, downstairs w.c, en-suite to master bedroom, family bathroom, enclosed rear garden and driveway.</description>
+                <bedrooms>4</bedrooms>
+                <bathrooms>1</bathrooms>
+                <plot_size>1400 sq.ft</plot_size>
+            </home2>
+            <home3>
+                <cost>£500000</cost>
+                <description>This well maintained two-storey home built in 2000 will impress the most astute of buyers. Surrounded by other quality homes, it exudes a certain sophistication and character you will be delighted to share with friends and family.</description>
+                <bedrooms>4</bedrooms>
+                <bathrooms>2</bathrooms>
+                <plot_size>1680 sq.ft</plot_size>
+            </home3>
+        </detached>
+        <semi-detached>
+            <home1>
+                <cost>£375000</cost>
+                <description>Vastly extended four bedroom property to the market. The property has a two storey extension to the side as well as a rear single storey extension that creates an incredible kitchen/diner. The property also has the benefit of an en-suite and walk in wardrobe to the master, games room/bar, good size garden, ample off road parking as well as a utility room.</description>
+                <bedrooms>4</bedrooms>
+                <bathrooms>2</bathrooms>
+                <plot_size>1200 sq.ft</plot_size>
+            </home1>
+            <home2>
+                <cost>£172500</cost>
+                <description>Well presented two double bedroom semi detached house. The ground floor comprises of an entrance porch, lounge with understairs storage cupboard to toilet, 17ft kitchen/dining room, two first floor double bedrooms and a large family shower room. The property benefits from double glazed windows, gas central heating system, double width driveway providing parking for at least two vehicles and enclosed rear garden.</description>
+                <bedrooms>2</bedrooms>
+                <bathrooms>1</bathrooms>
+                <plot_size>990 sq.ft</plot_size>
+            </home2>
+            <home3>
+                <cost>£280000</cost>
+                <description>Three bedroom, semi-detached home which would make an ideal choice as a starter home!
+                Offering spacious living accommodation throughout whilst benefitting from a generously sized garden and driveway providing off road parking.</description>
+                <bedrooms>3</bedrooms>
+                <bathrooms>1</bathrooms>
+                <plot_size>1100 sq.ft</plot_size>
+            </home3>
+        </semi-detached>
+        <terraced>
+            <home1>
+                <cost>£240000</cost>
+                <description>A well presented three bedroom terraced home conveniently situated within close proximity to local amenities being sold with no onward chain. Benefits including a spacious lounge, three double bedrooms and rear garden.</description>
+                <bedrooms>3</bedrooms>
+                <bathrooms>1</bathrooms>
+                <plot_size>700 sq.ft</plot_size>
+            </home1>
+            <home2>
+                <cost>£120000</cost>
+                <description>Nestled within a popular and convenient location is this two double bedroomed residence. Light, bright and airy rooms with lovely original features, this residence is ideal for any ftb or investor wanting to move straight into.</description>
+                <bedrooms>2</bedrooms>
+                <bathrooms>1</bathrooms>
+                <plot_size>1000 sq.ft</plot_size>
+            </home2>
+            <home3>
+                <cost>£360000</cost>
+                <description>Based on three floors the accommodation comprises an entrance hall, sitting room, dining room, fitted kitchen, inner lobby and a cloakroom. On the first floor there are three bedrooms and a family bathroom. On the second floor there is a Generous master bedroom with dressing room and an en-suite. The property further benefits from gas heating and double glazing. Externally there is an enclosed rear garden with gated rear access and a single garage to the rear with parking.</description>
+                <bedrooms>4</bedrooms>
+                <bathrooms>2</bathrooms>
+                <plot_size>1500 sq.ft</plot_size>
+            </home3>
+        </terraced>
+        <flat>
+            <flat1>
+                <cost>£290000</cost>
+                <description>This property benefits from having its own front for and the accommodation includes a large entrance hall with storage space, family bathroom, 24 ft master bedroom with fitted storage and terrace, large double second bedroom and a large open plan kitchen/living room.</description>
+                <bedrooms>2</bedrooms>
+                <bathrooms>1</bathrooms>
+                <plot_size>850 sq.ft</plot_size>
+            </flat1>
+            <flat2>
+                <cost>£190000</cost>
+                <description>offering high-quality accommodation within a riverside community and setting the benchmark for combining city center living with high quality facilities and private amenity spaces.Each unit features high specification finishes with Juliet balconies, stunning courtyard or river and city views.</description>
+                <bedrooms>1</bedrooms>
+                <bathrooms>1</bathrooms>
+                <plot_size>560 sq.ft</plot_size>
+            </flat2>
+            <flat3>
+                <cost>£155000</cost>
+                <description>The property comes fully furnished with a bespoke furniture packages and has everything you need to move in and make this place your home.Each flat has been fitted with a fully integrated kitchen including high gloss units and granite worktops with full sized fridge freezer, dishwasher and washer/dryer as standard.The fully tiled house bathroom has been fitted with top of the range chrome fitting and either a large walk in shower unit with power shower or a bath with power shower above and all are fitted with a ceramic heated towel rail.</description>
+                <bedrooms>1</bedrooms>
+                <bathrooms>1</bathrooms>
+                <plot_size>350 sq.ft</plot_size>
+            </flat3>
+        </flat>
+        <bungalow>
+            <home1>
+                <cost>£830000</cost>
+                <description>The property itself boast a flexible layout which can be comprised to fit any future buyers needs, with the current owners have the accommodation split into four spacious bedrooms two formal reception rooms the largest of which has an opening leading through to a modern fitted kitchen, a bright conservatory, two modern family bathroom and an ensuite to one of the larger double bedrooms complete the internal layout.</description>
+                <bedrooms>4</bedrooms>
+                <bathrooms>3</bathrooms>
+                <plot_size>2050 sq.ft</plot_size>
+            </home1>
+            <home2>
+                <cost>£220000</cost>
+                <description>This delightful detached bungalow is positioned on this most enviable cul-de-sac position, tucked away in this sought after village location! Boasting spacious living areas throughout, a mature and plentiful rear garden and having a driveway for off street parking! Also benefiting from a garage, a wetroom and a delightful kitchen and living areas!</description>
+                <bedrooms>3</bedrooms>
+                <bathrooms>1</bathrooms>
+                <plot_size>1800 sq.ft</plot_size>
+            </home2>
+            <home3>
+                <cost>£250000</cost>
+                <description>A 2 bedroom semi detached bungalow on a level site in a residential location. The property has been extended to the rear providing for a kitchen opening onto dining area. To the rear are delightful gardens with outside building currently arranged as a utility room but could convert into home office.</description>
+                <bedrooms>2</bedrooms>
+                <bathrooms>1</bathrooms>
+                <plot_size>1400 sq.ft</plot_size>
+            </home3>
+            <home4>
+                <cost>£90000</cost>
+                <description>A very nice house</description>
+                <bedroooms>2</bedroooms>
+                <bathrooms>2</bathrooms>
+                <plot_size>1800 sq.ft</plot_size>
+            </home4>
+        </bungalow>
+        <land>
+            <land1>
+                <cost>£125000</cost>
+                <description>Previously used as excess garden area, planning was approved in 1989 for 2,4 bedroom houses with garages. There is likely to be an extent of excavation and structural work on the retaining wall that will need to be considered.</description>
+                <bedrooms>n/a</bedrooms>
+                <bathrooms>n/a</bathrooms>
+                <plot_size>0.9 acres</plot_size>
+            </land1>
+            <land2>
+                <cost>£400000</cost>
+                <description>The planning permission provides for a partial two storey, three bedroom home extending to about 146 sq m, which is situated at the northern edge of the plot and overlooks the south-facing, mature gardens which adjoin woodland. The planning permission provides accommodation predominantly on the ground floor, which includes a large south-facing kitchen/living room, a separate dining room, a utility room, two ground floor bedrooms (one with en suite). To the first floor a third bedroom with woodland views.</description>
+                <bedrooms>n/a</bedrooms>
+                <bathrooms>n/a</bathrooms>
+                <plot_size>1571 sq.ft</plot_size>
+            </land2>
+        </land>
+    </sale>
+    <rent>
+        <detached>
+            <home1>
+                <cost>£800</cost>
+                <description>Three bedroom detached house. Offered unfurnished and with the benefits of gas central heating, double glazing, garage, off road parking and an enclosed rear garden.</description>
+                <bedrooms>3</bedrooms>
+                <bathrooms>1</bathrooms>
+            </home1>
+            <home2>
+                <cost>£3000</cost>
+                <description>Sitting room with patio doors leading to rear garden. A good-sized kitchen with a utility cupboard. Shower room and WC on the ground floor and separate bathroom with WC on 1st floor. Front garden with off-street parking and very large rear garden. In a great location for professionals and students.</description>
+                <bedrooms>5</bedrooms>
+                <bathrooms>2</bathrooms>
+            </home2>
+            <home3>
+                <cost>£1500</cost>
+                <description>This four-bedroom house benefits from off-street parking to the front and a private well-kept garden to the rear. The inside comprises large entrance hallway leading to an open-plan kitchen diner with breakfast bar overlooking the garden and sitting room overlooking the front of the property. The downstairs also benefits from a utility and downstairs WC. The garage has been cleverly converted to provide bike and garden storage but it does not fit a vehicle.</description>
+                <bedrooms>4</bedrooms>
+                <bathrooms>2</bathrooms>
+            </home3>
+        </detached>
+        <semi-detached>
+            <home1>
+                <cost>£1900</cost>
+                <description>The property has been newly re-decorated and refurbished to a high standard.
+                The accommodation is arranged over 2 floors. All 4 double bedrooms are all of larger than normal size bedrooms, all the bedrooms benefit from new beds and good quality orthopaedic mattresses. There is also a spare room which can be used as a laundry room and guest bedroom.
+                Kitchen with all appliances including American style fridge freezer, washing machine, stand steel hob and oven, microwave oven, washer/dryer
+                Two designer bathrooms and three toilets
+                The property also benefits from having a double glazed conservatory, extensive decking and large garden.</description>
+                <bedrooms>4</bedrooms>
+                <bathrooms>2</bathrooms>
+            </home1>
+            <home2>
+                <cost>£950</cost>
+                <description>A 3 bedroom semi-detached house with off road parking for 2 cars is available to rent immediately. Living room, kitchen diner with gas hob and electric oven. 3 bedrooms and upstairs bathroom.</description>
+                <bedrooms>3</bedrooms>
+                <bathrooms>1</bathrooms>
+            </home2>
+            <home3>
+                <cost>£1600</cost>
+                <description>Suitable for students or professionals, shared accommodation, close to all public transport, takeaways, with double beds in each room, fully alarmed with wifi, in popular area of Fallowfield, close to all amenities and public transport.</description>
+                <bedrooms>4</bedrooms>
+                <bathrooms>1</bathrooms>
+            </home3>
+        </semi-detached>
+        <terraced>
+            <home1>
+                <cost>£900</cost>
+                <description>Tucked away in a quiet location yet only minutes from the town centre, this charming end terrace house benefits from gas fired central heating and offers accommodation including; entrance hall, kitchen with appliances, lounge diner, two bedrooms, bathroom, enclosed garden and off-road parking.</description>
+                <bedrooms>2</bedrooms>
+                <bathrooms>1</bathrooms>
+            </home1>
+            <home2>
+                <cost>£1100</cost>
+                <description>A newly refreshed three bedroom Terraced House to Let. The property has been re decorated throughout and new flooring. The property comprises kitchen, spacious lounge with door leading to enclosed rear garden, three bedrooms and bathroom with shower over bath.</description>
+                <bedrooms>1</bedrooms>
+                <bathrooms>1</bathrooms>
+            </home2>
+            <home3>
+                <cost>£1900</cost>
+                <description>The accommodation is arranged over 2 floors. 3 Double bedrooms are all of larger than normal size and 1 smaller bedroom. All the bedrooms benefit from new beds and good quality orthopaedic mattresses.
+                Kitchen with all appliances including fridge freezer, washing machine, cooker with oven and hob, microwave oven.
+                Lovely living space with good quality sofas and dining table and chairs with patio doors open to a lovely garden.
+                The bathroom/toilet has been newly decorated.</description>
+                <bedrooms>4</bedrooms>
+                <bathrooms>2</bathrooms>
+            </home3>
+        </terraced>
+        <flat>
+            <flat1>
+                <cost>£500</cost>
+                <description>A one bedroom first floor apartment. There is one parking space and communal outside storage. The property comprises of entrance hallway, open plan living room and kitchen, 1 bedroom and bathroom.</description>
+                <bedrooms>1</bedrooms>
+                <bathrooms>1</bathrooms>
+            </flat1>
+            <flat2>
+                <cost>£1300</cost>
+                <description>A fully re-decorated, spacious, two double bedroom apartment with gated allocated parking. Offered part-furnished, the property benefits from a bright lounge/diner, private balcony, fitted kitchen with integrated appliances and two bathrooms (one en-suite).</description>
+                <bedrooms>2</bedrooms>
+                <bathrooms>2</bathrooms>
+            </flat2>
+            <flat3>
+                <cost>£1800</cost>
+                <description>A stunningly designed development nestled in a bustling and vibrant community. Its spacious and quiet apartments come with designer furniture and top spec appliances, plus amazing amenity spaces including a gym and dedicated coworking space.</description>
+                <bedrooms>1</bedrooms>
+                <bathrooms>1</bathrooms>
+            </flat3>
+        </flat>
+        <bungalow>
+            <home1>
+                <cost>£1400</cost>
+                <description>This bungalow is located on a corner plot with spacious outside areas and garage with driveway. The property has undergone extensive works to include newly fitted bathroom with shower over bath, new modern kitchen, new flooring and decorated throughout, two spacious double bedrooms and large lounge. The property also benefits from being newly landscaped and painted externally.</description>
+                <bedrooms>1</bedrooms>
+                <bathrooms>1</bathrooms>
+            </home1>
+            <home2>
+                <cost>£1300</cost>
+                <description>This bungalow has two bedrooms, a good sized living room and modern kitchen. The gardens are family sized and there is the benefit of a rear driveway into the back garden for secure off road parking.</description>
+                <bedrooms>2</bedrooms>
+                <bathrooms>1</bathrooms>
+            </home2>
+            <home3>
+                <cost>£1100</cost>
+                <description>Offered to let is this two bedroom detached bungalow set within a quiet residential area. Offering a lounge/diner, modern kitchen and bathroom, two generous size bedrooms, a rear garden plus off street parking and garage to the front!</description>
+                <bedrooms>2</bedrooms>
+                <bathrooms>1</bathrooms>
+            </home3>
+        </bungalow>
+    </rent>
+</properties>
